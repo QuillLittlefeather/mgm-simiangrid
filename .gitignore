@@ -9,6 +9,7 @@ Grid/map/map-*.png
 Grid/logs/log-*.php
 GridFrontend/system/logs/log-*.php
 GridPublic/logs/log-*.php
+GridLogin/logs/log-*.php
 #
 #Config Files
 Grid/config/config.php
