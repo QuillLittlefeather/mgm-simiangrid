@@ -28,6 +28,7 @@ GridWebDAV/config/InstallerFinished_Simian_Grid_WebDAV
 #
 # GridPublic Caches
 GridPublic/textures/[0-9a-f][0-9a-f]
+GridPublic/meshes/[0-9a-f][0-9a-f]
 #
 # stupid Macs
 .DS_Store
